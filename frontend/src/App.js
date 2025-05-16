@@ -12,7 +12,7 @@ import LoginSignup from "./Pages/LoginSignup";
 import About from "./Pages/About/About";
 import Contact from "./Pages/Contact/Contact";
 
-export const backend_url = 'http://localhost:4000';
+export const backend_url = "https://fashionclubb-backend.onrender.com";
 export const currency = '₹';
 
 function App() {
